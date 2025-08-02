@@ -1,7 +1,3 @@
-import javax.sound.midi.MetaMessage
-import javax.xml.namespace.QName
-
-
 fun getMax(a: Int, b: Int): Int {
         val max = if (a > b) a else b   // single line if else statement
         return max   // here we can only return one variable

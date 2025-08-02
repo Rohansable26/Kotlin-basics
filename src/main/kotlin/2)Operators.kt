@@ -1,9 +1,7 @@
-import kotlin.math.PI
-
 fun main() {
     var x = 5
     val y = 16f
-
+/*
     var result = x + y
     println("result = ${x + y}")
     println("result = ${x - y}")
@@ -71,10 +69,10 @@ println()
     else
         println("this condition is true and condition as well" ) // here it is called when if is false
 
-
+*/
 
     // Null pointer
-println()
+println()/*
     var text1 : String? = "Name"
     text1 = null
     if(text1!= null) {
@@ -86,5 +84,13 @@ println()
     text = "this variable is not null "
     val text2 : String = text ?: "this variable is null"
     println(text2)
+*/
+
+
+
+
+
+
+
 }
 
